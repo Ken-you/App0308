@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "我的優惠碼"; ObjectID = "4fX-pe-cAk"; */
+"4fX-pe-cAk.text" = "我的優惠碼";
+
+/* Class = "UILabel"; text = "."; ObjectID = "9s5-uo-paO"; */
+"9s5-uo-paO.text" = ".";
+
+/* Class = "UILabel"; text = "將住宿註冊上線"; ObjectID = "E4I-m5-fyJ"; */
+"E4I-m5-fyJ.text" = "將住宿註冊上線";
+
+/* Class = "UILabel"; text = "客戶服務"; ObjectID = "FdF-Zq-8lV"; */
+"FdF-Zq-8lV.text" = "客戶服務";
+
+/* Class = "UITabBarItem"; title = "Order"; ObjectID = "LsY-3U-DzQ"; */
+"LsY-3U-DzQ.title" = "Order";
+
+/* Class = "UITableViewSection"; headerTitle = "Animal"; ObjectID = "OqD-fK-Qej"; */
+"OqD-fK-Qej.headerTitle" = "Animal";
+
+/* Class = "UILabel"; text = "設定"; ObjectID = "U5d-i1-lMT"; */
+"U5d-i1-lMT.text" = "設定";
+
+/* Class = "UITableViewSection"; headerTitle = "Animal"; ObjectID = "ZhN-C3-8bH"; */
+"ZhN-C3-8bH.headerTitle" = "Animal";
+
+/* Class = "UILabel"; text = "住宿優惠"; ObjectID = "a5Y-au-Qva"; */
+"a5Y-au-Qva.text" = "住宿優惠";
+
+/* Class = "UILabel"; text = "分享APP回饋意見"; ObjectID = "aKh-dv-4xN"; */
+"aKh-dv-4xN.text" = "分享APP回饋意見";
+
+/* Class = "UILabel"; text = "清單"; ObjectID = "c4J-pK-7bC"; */
+"c4J-pK-7bC.text" = "清單";
+
+/* Class = "UILabel"; text = "照片"; ObjectID = "d6Y-pc-eVe"; */
+"d6Y-pc-eVe.text" = "照片";
+
+/* Class = "UILabel"; text = "."; ObjectID = "fNm-0U-O4n"; */
+"fNm-0U-O4n.text" = ".";
+
+/* Class = "UILabel"; text = "查看更多"; ObjectID = "hj1-LD-xLI"; */
+"hj1-LD-xLI.text" = "查看更多";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "jI3-eO-Rqd"; */
+"jI3-eO-Rqd.text" = "Sun";
+
+/* Class = "UILabel"; text = "禮物卡"; ObjectID = "le7-2f-IMu"; */
+"le7-2f-IMu.text" = "禮物卡";
+
+/* Class = "UILabel"; text = "為住宿經驗評分"; ObjectID = "mXA-Mt-ihT"; */
+"mXA-Mt-ihT.text" = "為住宿經驗評分";
+
+/* Class = "UITabBarItem"; title = "profile"; ObjectID = "vxw-Yt-93X"; */
+"vxw-Yt-93X.title" = "profile";
+
+/* Class = "UILabel"; text = "租車"; ObjectID = "xE7-Hd-77t"; */
+"xE7-Hd-77t.text" = "租車";

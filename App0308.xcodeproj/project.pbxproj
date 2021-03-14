@@ -13,10 +13,11 @@
 		120110C525F638B7009ACCFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120110C325F638B7009ACCFC /* Main.storyboard */; };
 		120110C725F638B8009ACCFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120110C625F638B8009ACCFC /* Assets.xcassets */; };
 		120110CA25F638B8009ACCFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120110C825F638B8009ACCFC /* LaunchScreen.storyboard */; };
+		126F9BF625FA363200ACD6AE /* search.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 126F9BF425FA363200ACD6AE /* search.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		120110BA25F638B7009ACCFC /* App0308.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App0308.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		120110BA25F638B7009ACCFC /* Fake booking.com.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fake booking.com.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		120110BD25F638B7009ACCFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		120110BF25F638B7009ACCFC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		120110C125F638B7009ACCFC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		120110C625F638B8009ACCFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		120110C925F638B8009ACCFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		120110CB25F638B8009ACCFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		126F9BF525FA363200ACD6AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = App0308/Base.lproj/search.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		120110B125F638B7009ACCFC = {
 			isa = PBXGroup;
 			children = (
+				126F9BF425FA363200ACD6AE /* search.storyboard */,
 				120110BC25F638B7009ACCFC /* App0308 */,
 				120110BB25F638B7009ACCFC /* Products */,
 			);
@@ -48,7 +51,7 @@
 		120110BB25F638B7009ACCFC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				120110BA25F638B7009ACCFC /* App0308.app */,
+				120110BA25F638B7009ACCFC /* Fake booking.com.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +87,7 @@
 			);
 			name = App0308;
 			productName = App0308;
-			productReference = 120110BA25F638B7009ACCFC /* App0308.app */;
+			productReference = 120110BA25F638B7009ACCFC /* Fake booking.com.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -127,6 +130,7 @@
 			files = (
 				120110CA25F638B8009ACCFC /* LaunchScreen.storyboard in Resources */,
 				120110C725F638B8009ACCFC /* Assets.xcassets in Resources */,
+				126F9BF625FA363200ACD6AE /* search.storyboard in Resources */,
 				120110C525F638B7009ACCFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -161,6 +165,14 @@
 				120110C925F638B8009ACCFC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		126F9BF425FA363200ACD6AE /* search.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				126F9BF525FA363200ACD6AE /* Base */,
+			);
+			name = search.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -291,7 +303,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ken.App0308;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fake booking.com";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +320,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ken.App0308;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fake booking.com";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
